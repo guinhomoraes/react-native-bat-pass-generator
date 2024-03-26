@@ -11,30 +11,30 @@
  <!--
    <img 
       alt="Project programing languages count" 
-      src="https://img.shields.io/github/languages/count/felipeAguiarCode/node-js-bulk-downloader?color=6A57D5"
+      src="https://img.shields.io/github/languages/count/guinhomoraes/node-js-bulk-downloader?color=6A57D5"
     >
  -->
   <!--
     <img 
       alt="Last commit on GitHub" 
-      src="https://img.shields.io/github/last-commit/felipeAguiarCode/node-js-bulk-downloader?color=6A57D5"
+      src="https://img.shields.io/github/last-commit/guinhomoraes/node-js-bulk-downloader?color=6A57D5"
     >
   -->
     <img 
-      alt="Made by Felipe Aguiar" 
+      alt="Made by Guilherme Moraes" 
       src="https://img.shields.io/badge/made%20by-Felipe%20Aguiar-%20?color=6A57D5"
     >
     <img 
       alt="Project top programing language" 
-      src="https://img.shields.io/github/languages/top/felipeAguiarCode/react-native-bat-pass-generator?color=6A57D5"
+      src="https://img.shields.io/github/languages/top/guinhomoraes/react-native-bat-pass-generator?color=6A57D5"
     >
     <img 
       alt="Repository size" 
-      src="https://img.shields.io/github/repo-size/felipeAguiarCode/react-native-bat-pass-generator?color=6A57D5"
+      src="https://img.shields.io/github/repo-size/guinhomoraes/react-native-bat-pass-generator?color=6A57D5"
     >
     <img 
       alt="GitHub license" 
-      src="https://img.shields.io/github/license/felipeAguiarCode/react-native-bat-pass-generator?color=6A57D5"
+      src="https://img.shields.io/github/license/guinhomoraes/react-native-bat-pass-generator?color=6A57D5"
     >
   </p> 
 
